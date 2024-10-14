@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey, I'm Thaylize Santos!</h1>
 
 **👩‍💻 Ambitious Student and Future Software Engineer**  
-**📍 Maranguape, Ceará - Brazil**  
+**📍  Maranguape, Ceará - Brazil**  
 **🎓 Studying Technical Informatics at the Federal Institute of Education, Science and Technology (IFCE), Maranguape Campus**  
-**💡 Ambition, creativity, and leadership drive me!**
+**💡  Ambition, creativity, and leadership drive me!**
 
 ---
 
